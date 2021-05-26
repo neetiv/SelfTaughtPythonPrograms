@@ -11,11 +11,11 @@ for x in range(0,20):
 
 print('   ')
 print('#2: Even Numbers')
-value = 0
+value = 1
 for x in range(0, 12):
     value = value + 2
     print(value)
-    if value == 12:
+    if value == 13:
         break
 
 
