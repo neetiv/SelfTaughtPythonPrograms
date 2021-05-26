@@ -23,3 +23,4 @@ rectangle(400,400, 'violet')
 rectangle(400,400, 'magenta')
 rectangle(400,400, 'cyan')
 
+rectangle(400,400,'#ffd800')
