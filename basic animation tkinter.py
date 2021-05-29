@@ -14,5 +14,4 @@ while True:
         
     for i in range(0,60):
         canvas.move(1,-5,-5)
-        tk.update()
-        time.sleep(0.03)
+        time.sleep(0.001)
